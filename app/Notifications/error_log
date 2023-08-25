@@ -1,0 +1,5 @@
+[05-Jan-2019 11:07:32 America/New_York] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home/shivcredits/public_html/crm/app/Notifications/InvoicePaid.php on line 10
+[08-Jan-2019 03:08:05 America/New_York] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home/shivcredits/public_html/crm/app/Notifications/InvoicePaid.php on line 10
+[09-Jan-2019 08:53:09 America/New_York] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home/shivcredits/public_html/crm/app/Notifications/InvoicePaid.php on line 10
+[11-Jan-2019 10:21:31 America/New_York] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home/shivcredits/public_html/crm/app/Notifications/InvoicePaid.php on line 10
+[14-Jan-2019 01:56:20 America/New_York] PHP Fatal error:  Class 'Illuminate\Notifications\Notification' not found in /home/shivcredits/public_html/crm/app/Notifications/InvoicePaid.php on line 10

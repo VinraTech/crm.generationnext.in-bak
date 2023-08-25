@@ -1,0 +1,20 @@
+[20-Feb-2019 17:34:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/shivcredits/public_html/crm/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shivcredits/public_html/crm/routes/web.php on line 14
+[21-Feb-2019 02:16:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/shivcredits/public_html/crm/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shivcredits/public_html/crm/routes/web.php on line 14
+[04-Mar-2019 20:58:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/shivcredits/public_html/crm/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/shivcredits/public_html/crm/routes/channels.php on line 14
+[04-Mar-2019 21:35:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/shivcredits/public_html/crm/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shivcredits/public_html/crm/routes/api.php on line 16
+[14-Mar-2019 15:09:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/shivcredits/public_html/crm/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/shivcredits/public_html/crm/routes/console.php on line 16
